@@ -45,6 +45,9 @@ A estos componentes se le puede pasar información a travez de lo que son las pr
 Los componentes pueden ser *anidados*, de forma que los componentes de orden superior propagan datos a los de orden inferior.
 La comunicación entre ellos es **unidireccional** y se usan los **eventos** para que los componentes inferiores sean **reconocidos** por los de orden superior.
 
+En la Jerarquia haremos pasar la información desde arriba hacia abajo (pasar objetos, datos), Y los eventos suelen ser de abajo hacia arriba.
 
-
+<p align="center">
+![Jerarquia](imagenes/Jerarquia1.png)
+</p>
 
