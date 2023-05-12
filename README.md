@@ -48,6 +48,8 @@ La comunicación entre ellos es **unidireccional** y se usan los **eventos** par
 En la Jerarquia haremos pasar la información desde arriba hacia abajo (pasar objetos, datos), Y los eventos suelen ser de abajo hacia arriba.
 
 <p align="center">
+
 ![Jerarquia](imagenes/Jerarquia1.png)
+
 </p>
 
