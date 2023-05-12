@@ -43,7 +43,8 @@ A estos componentes se le puede pasar información a travez de lo que son las pr
 ### Anidación (de componentes)
 
 Los componentes pueden ser *anidados*, de forma que los componentes de orden superior propagan datos a los de orden inferior.
-La comunicación entre ellos es *unidireccional* y se usan los *eventos* para que los componentes inferiores sean *reconocidos* por los de orden superior.
+La comunicación entre ellos es **unidireccional** y se usan los **eventos** para que los componentes inferiores sean **reconocidos** por los de orden superior.
+
 
 
 
