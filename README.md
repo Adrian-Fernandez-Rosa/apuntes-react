@@ -51,3 +51,39 @@ En la Jerarquia haremos pasar la información desde arriba hacia abajo (pasar ob
   <img src="imagenes/Jerarquia1.png" alt="Jerarquia1">
 </p>
 
+### Declarativa
+
+React sigue el paradigma del **desarrollo declarativo.**
+
+Las aplicaciones que creemos estarán formadas por componentes.
+Tanto la aplicación global como cada componente tiene un estado propio, y es por este motivo que React es declarativo.
+
+Con Javascript puro (vanilla) se trabaja creando scripts que informan al DOM de qué debe realizar o cómo hacerlo: Se está siguiendo un paradigma imperativo.
+
+Sin embargo, esta librería trabaja sobre el estado global de la aplicación y responde a los cambios de cada componente en su estado por separado, actualizando únicamente lo necesario.
+
+### Isomorfismo
+
+React permite el isomorfismo, también conocido como JS Universal, capacidad con la que podemos redenrizar tanto en servidor como en cliente.
+
+Esto hace que solucione problemas y mejore el posicionamiento.
+
+### Agilidad
+
+Con ReactJS disponemos de todas las funcionalidades que nos ofrece jQuery.
+
+Ambas tecnologías pueden convivir, aunque no es necesario tener que usar JQuery en nuestros proyectos.
+
+***
+
+React está basado en el uso de eventos asíncronos y en él destaca el uso de HTTP, lo que lo hace perfercto para trabajar con librerías o frameworks web.
+
+*** 
+
+## create-react-app
+
+En la actual documentación de react es evidente la falta de mención de create-react-app. Si bien es funcional, la documentación recomienda usar herramientas alternativas por lo que en mi opinion personal y solo para esta ocasión me quedo con VITE. Para mis emprendimientos tengo pendiente de analizar Gatsby, Remix.
+
+
+
+
